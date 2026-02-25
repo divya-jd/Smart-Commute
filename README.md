@@ -1,4 +1,4 @@
-# 🚗 Atlanta → Gainesville Commute Analyzer
+# 🚗 Smart Commute Analyzer
 
 > **"Given weather, crashes, and day-of-week traffic patterns, what departure time ensures I arrive by my target time with ≥95% probability?"**
 
@@ -10,7 +10,7 @@ An end-to-end Data Analytics project born out of a real commute experience — i
 
 ```
 traffic_analytics/
-├── app.py                          # 🎯 Streamlit dashboard
+├── app.py                          # Streamlit dashboard
 ├── requirements.txt                # Dependencies
 ├── data/
 │   ├── generate_data.py            # Synthetic data generator
@@ -94,3 +94,8 @@ streamlit run app.py
 ---
 
 *Built with ☕ and too many early mornings on I-85.*
+----
+
+## Author
+
+Velankani Joise Divya G C
