@@ -1,5 +1,5 @@
 """
-Atlanta → Gainesville (Boehringer Ingelheim) Commute Data Generator
+Atlanta → Gainesville Commute Data Generator
 ===================================================================
 Generates ~2 years of synthetic weekday commute records with realistic
 traffic patterns, weather effects, and crash probabilities.
